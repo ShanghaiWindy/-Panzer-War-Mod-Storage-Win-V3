@@ -1,0 +1,1 @@
+coscli sync -r . cos://mods-1251176812/
