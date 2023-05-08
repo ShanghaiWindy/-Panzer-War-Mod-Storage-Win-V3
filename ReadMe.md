@@ -1,6 +1,82 @@
 # Mod Download
 
 [How to install the mod? Click Here](https://github.com/Doreamonsky/Panzer-War-Lit-Mod)
+## .github
+
+## Egor
+
+### StandaloneWindows64_Vehicle_Char2bis_modpack
+
+
+Size:21.03MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Egor/StandaloneWindows64_Vehicle_Char2bis_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_KW_2_88_mm_modpack_modpack
+
+
+Size:15.83MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Egor/StandaloneWindows64_Vehicle_KW_2_88_mm_modpack_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_OT_34_modpack
+
+
+Size:9.86MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Egor/StandaloneWindows64_Vehicle_OT_34_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_Suslik_modpack_modpack
+
+
+Size:4.94MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Egor/StandaloneWindows64_Vehicle_Suslik_modpack_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_TS_54_modpack
+
+
+Size:11.10MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Egor/StandaloneWindows64_Vehicle_TS_54_modpack.modpack?raw=true)
+
+## Kerman-Mikhai
+
+### StandaloneWindows64_Vehicle-KV-1E_WOT_modpack
+
+Kerman's pack
+Size:9.34MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-KV-1E_WOT_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-SU-100M1_WOT_modpack
+
+Kerman's pack
+Size:7.87MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-SU-100M1_WOT_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T-28E_s_F-30_WOT_modpack
+
+Kerman's pack
+Size:7.22MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-T-28E_s_F-30_WOT_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T-34E_WOT_modpack
+
+Kerman's pack
+Size:9.65MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-T-34E_WOT_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T-44-122_WOT_modpack
+
+Kerman's pack
+Size:9.57MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-T-44-122_WOT_modpack.modpack?raw=true)
+
 ## Win
 
 ### StandaloneWindows64_DIY-PK_Pan_Sight
