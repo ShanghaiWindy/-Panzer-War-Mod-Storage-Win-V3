@@ -40,6 +40,15 @@ Size:11.10MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Egor/StandaloneWindows64_Vehicle_TS_54_modpack.modpack?raw=true)
 
+## Gusss
+
+### StandaloneWindows64_Vehicle_IS-2_WoT_modpack
+
+IS-2_WoT by gusss
+Size:9.37MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Gusss/StandaloneWindows64_Vehicle_IS-2_WoT_modpack.modpack?raw=true)
+
 ## Kerman-Mikhai
 
 ### StandaloneWindows64_Vehicle-KV-1E_WOT_modpack
@@ -76,6 +85,99 @@ Kerman's pack
 Size:9.57MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Kerman-Mikhai/StandaloneWindows64_Vehicle-T-44-122_WOT_modpack.modpack?raw=true)
+
+## Udes-03
+
+### StandaloneWindows64_Vehicle-8.8_cm_Pak_43_Jagdtiger_WOT
+
+
+Size:9.12MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-8.8_cm_Pak_43_Jagdtiger_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-Ferdinand_WOT
+
+
+Size:8.85MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-Ferdinand_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-Jagdpanther_WOT
+
+
+Size:8.85MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-Jagdpanther_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-Jagdpanzer_E_100_WOT
+
+
+Size:8.58MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-Jagdpanzer_E_100_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-Jagdtiger_WOT
+
+
+Size:8.91MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-Jagdtiger_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-KV-220_Beta-Test_Blitz
+
+
+Size:2.76MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-KV-220_Beta-Test_Blitz.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-M10_Wolverine_WOT
+
+
+Size:10.74MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-M10_Wolverine_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-M18_Hellcat_WOT
+
+
+Size:11.92MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-M18_Hellcat_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-M8A1_WOT
+
+
+Size:9.67MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-M8A1_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T110E4_WOT
+
+
+Size:11.08MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-T110E4_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T25_2_WOT
+
+
+Size:11.74MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-T25_2_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T28_Prototype_WOT
+
+
+Size:10.52MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-T28_Prototype_WOT.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T30_WOT
+
+
+Size:11.51MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Udes-03/StandaloneWindows64_Vehicle-T30_WOT.modpack?raw=true)
 
 ## Win
 
@@ -785,4 +887,97 @@ Platform:Windows
 Size:35.38MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Win/StandaloneWindows64_重坦组合包.modpack?raw=true)
+
+## XgasterX
+
+### StandaloneWindows64_Map-1stmapxgasterx_modpack
+
+
+Size:62.85MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Map-1stmapxgasterx_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Map-new-snow-map_modpack
+
+
+Size:11.02MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Map-new-snow-map_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-1_modpack
+
+
+Size:15.32MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle-1_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-2_modpack
+
+
+Size:19.80MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle-2_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-60TP_40-3_modpack
+
+
+Size:17.15MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle-60TP_40-3_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-E100_Nemeziss_modpack
+
+
+Size:16.03MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle-E100_Nemeziss_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-Hetzer_STK_modpack
+
+1 tank in STK free pak
+Size:7.60MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle-Hetzer_STK_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-IS-1_modpack
+
+
+Size:16.53MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle-IS-1_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T82_NTB_modpack
+
+
+Size:3.83MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle-T82_NTB_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-Tiger-II_Kampfgruppe-Schneide_modpack
+
+
+Size:17.74MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle-Tiger-II_Kampfgruppe-Schneide_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_AC_DPM_modpack
+
+
+Size:5.13MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle_AC_DPM_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_AC_HE_modpack
+
+
+Size:5.13MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle_AC_HE_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_AC_SLOT-2_modpack
+
+
+Size:5.13MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/XgasterX/StandaloneWindows64_Vehicle_AC_SLOT-2_modpack.modpack?raw=true)
 
